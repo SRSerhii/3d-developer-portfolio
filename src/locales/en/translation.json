@@ -1,0 +1,251 @@
+{
+    "hero": {
+        "title": "Need a website or custom development solution but don't have time or skills?",
+        "description": "I have 2+ years of software development experience and 7+ years of experience in marketing that helps me create applications that bring the most value to your business and clients!",
+        "consultation": {
+            "email": "Get free consultation via Email",
+            "telegram": "Get free consultation via Telegram"
+        }
+    },
+    "common": {
+        "loading": "Loading...",
+        "error": "An error occurred. Please try again later.",
+        "notFound": "Page not found."
+    },
+    "footer": {
+        "contacts": "Contacts",
+        "legal": "Legal",
+        "privacy": "Privacy Policy",
+        "terms": "Terms of Service",
+        "rights": "Serhii Shevchenko. All rights reserved."
+    },
+    "navbar": {
+        "home": "Home",
+        "about": "About",
+        "services": "Services",
+        "portfolio": "Portfolio",
+        "contact": "Contact",
+        "experience": "Experience",
+        "tools": "Tools",
+        "projects": "Projects",
+        "testimonials": "Testimonials"
+    },
+    "contact": {
+        "title": "Contact Me",
+        "description": "Feel free to reach out for any inquiries or collaborations.",
+        "email": "Email",
+        "phone": "Phone"
+    },
+    "services": {
+        "title": "My Services",
+        "subtitle": "Why choose me?",
+        "description": "I'm a skilled software developer with 7+ years of experience in marketing which helps me much better understand business needs and create websites and products that give the most value to business owners and its clients."
+    },
+    "servicesData": {
+        "webDevelopment": {
+            "title": "Web Development",
+            "description": "Custom, high-performance websites that combine modern design with functionality, tailored to meet your specific needs.",
+            "tags": [
+                "Responsive Design",
+                "CMS Integration",
+                "Custom Features",
+                "Performance Boost",
+                "Analytics Setup"
+            ]
+        },
+        "fullStackDevelopment": {
+            "title": "Full-Stack Development",
+            "description": "End-to-end development services, covering both front-end and back-end, to create robust and scalable web applications.",
+            "tags": [
+                "Front-End UI",
+                "Back-End Logic",
+                "Database Setup",
+                "API Integration"
+            ]
+        },
+        "websiteOptimization": {
+            "title": "Website Optimization",
+            "description": "Improve website performance, speed, and SEO to enhance user experience and ensure better visibility on search engines.",
+            "tags": [
+                "Speed Boost",
+                "SEO Improvement",
+                "Mobile Friendly",
+                "Site Security"
+            ]
+        },
+        "ecommerceSolutions": {
+            "title": "E-commerce Solutions",
+            "description": "Creating and optimizing E-Commerce platforms that offer a seamless shopping experience, from front-end development to payment integration and custom solutions.",
+            "tags": [
+                "Front-End Development",
+                "Payment Setup",
+                "Analytics Setup",
+                "Custom Solutions"
+            ]
+        }
+    },
+    "portfolio": {
+        "title": "My Portfolio",
+        "description": "Check out some of my recent projects and works."
+    },
+    "feedbacks": {
+        "title": "Client Feedback",
+        "description": "What my clients say about my work."
+    },
+    "toolsSection": {
+        "title": "Tools I Use",
+        "description": "I work with a variety of tools and technologies to deliver the best results."
+    },
+    "experience": {
+        "title": "Work Experience.",
+        "subtitle": "What I have done so far.",
+        "fullstackdeveloper": {
+            "title": "Full-Stack Developer",
+            "company": "Freelance",
+            "duration": "December 2024 - Present",
+            "description": [
+                "Website development using Wordpress, Figma, Javascript, React, Next.js, Git, Firebase, Vercel, REST API, V0, Tailwind CSS.",
+                "Working with databases using SQL."
+            ]
+        },
+        "headOfAdvertising": {
+            "title": "Head of Advertising and Web Analytics Department",
+            "company": "Miloan",
+            "duration": "May 2021 - August 2023",
+            "description": [
+                "Experience with Android studio (setting up mobile app analytics).",
+                "Setting up analytics (Firebase, BigQuery, Google Cloud, SQL, Google Analytics, GTM, MS Clarity, AppsFlyer), analyzing reports and optimizing advertising campaigns, as well as websites and landing pages.",
+                "Writing custom analytics scripts (Javascript).",
+                "Dom scraping (jQuery), DevTools.",
+                "Collaborating with cross-functional teams including designers, developers and others."
+            ]
+        },
+        "webDeveloper": {
+            "title": "Web Developer and Advertising Specialist",
+            "company": "Freelance",
+            "duration": "February 2020 - April 2021",
+            "description": [
+                "Website development (Wordpress, Elementor, Javascript, CSS, HTML, Figma).",
+                "Analytics setup (Google Analytics, GTM, MS Clarity).",
+                "Writing custom scripts for analytics (Javascript).",
+                "Setting up Google Ads, Facebook Ads."
+            ]
+        }
+    },
+    "tools": {
+        "title": "Main Tools & Technologies Powering My Creations",
+        "subtitle": "Why choose me?",
+        "description": "Below you can explore the cutting-edge tools and technologies I use to build innovative and effective digital solutions."
+    },
+    "projects": {
+        "title": "My Projects",
+        "subtitle": "Portfolio.",
+        "myPortfolio": {
+            "title": "My 3D Portfolio website",
+            "description": "While working on this project, I focused on creating a responsive and visually appealing portfolio website that showcases my skills. The site is built using modern web technologies and follows best practices for performance.",
+            "link": "Visit website",
+            "link_github": "View Code on Github",
+            "image": "../SerhiiShevchenko_portfolio_hero_1_en.webp",
+            "img_alt": "Serhii Shevchenko's portfolio website preview",
+            "tags": [
+                "#javascript",
+                "#react",
+                "#vite",
+                "#tailwindcss",
+                "#threejs"
+            ]
+        },
+        "nutritionBlog": {
+            "title": "Science-based nutrition, health, fitness, biohacking blog",
+            "description": "Different parts of this project were developed using various technologies, including Wordpress, Next.js, Firebase, Javascript, REST API. As an example, below I provided a link to code on github for one of the pages, which was built with Next.js, Rest API and then deployed on Firebase.",
+            "link": "Visit Blog",
+            "link_github": "View Code on Github",
+            "image": "../SerhiiShevchenko_com_home_en.webp",
+            "img_alt": "Serhii Shevchenko's science-based nutrition, health, fitness, biohacking blog preview",
+            "tags": [
+                "#javascript",
+                "#wordpress",
+                "#firebase",
+                "#restapi",
+                "#nextjs"
+            ]
+        }
+    },
+    "testimonials": {
+        "title": "What Others Say",
+        "subtitle": "Testimonials.",
+        "inCompany": "of",
+        "feedbacks": {
+            "client1": {
+                "name": "Hanna Mykhalchenko",
+                "designation": "CEO",
+                "company": "Acme Co",
+                "feedback": "I thought it was impossible to make a website as beautiful as our product, but Serhii proved me wrong."
+            },
+            "client2": {
+                "name": "Chris Brown",
+                "designation": "COO",
+                "company": "DEF Corp",
+                "feedback": "I've never met a web developer who truly cares about their clients' success like Serhii does."
+            },
+            "client3": {
+                "name": "Sara Lee",
+                "designation": "CMO",
+                "company": "XYZ Inc",
+                "feedback": "After Serhii optimized our website, our traffic increased by 50%. We can't thank him enough!"
+            }
+        }
+    },
+    "contactForm": {
+        "title": "Contact Me",
+        "subtitle": "Get in Touch",
+        "fields": {
+            "name": "Your Name",
+            "name_placeholder": "What's your name?",
+            "email": "Your Email",
+            "email_placeholder": "yourname@example.com",
+            "message": "Your Message",
+            "message_placeholder": "How can I help you?"
+        },
+        "alert": {
+            "success": "Thank you. I will get back to you as soon as possible.",
+            "error": "Oops! Something went wrong. Please try again."
+        },
+        "validation": {
+            "name": "Name is required",
+            "email": {
+                "required": "Email is required",
+                "invalid": "Invalid email address"
+            },
+            "message": "Message is required"
+        },
+        "sendBtn": "Send",
+        "sending": "Sending..."
+    },
+    "tos": {
+        "tos1": "<1>Terms of Service</1>"
+    },
+    "notFound": {
+        "title": "Page Not Found",
+        "description": "The page you are looking for does not exist. Please try again or contact us for help.",
+        "homeLink": "Go to homepage",
+        "pageTitle": "Oops! Something went wrong. Please try again or contact us so we can help."
+    },
+    "meta": {
+        "title": "3D developer portfolio website | Serhii Shevchenko",
+        "description": "Serhii Shevchenko's 3D portfolio website built with react, vite, three.js, tailwind CSS, javascript.",
+        "keywords": "software developer, 3d developer portfolio, 3d developer website, developer website example, 3d website example, react website",
+        "author": "Serhii Shevchenko",
+        "OgLocale": "en_US",
+        "Img": "/SerhiiShevchenko_portfolio_hero_1_en.png",
+        "TwCard": "summary_large_image",
+        "privacy": {
+            "title": "Privacy Policy",
+            "description": "This privacy policy explains how we collect, use, and protect your information."
+        },
+        "tos": {
+            "title": "Terms of Service",
+            "description": "By using our website and services, you agree to these terms of service."
+        }
+    }
+}
