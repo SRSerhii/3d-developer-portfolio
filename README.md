@@ -74,13 +74,21 @@ npm install --legacy-peer-deps
 Create a new file named `.env` in the root of your project and add the following content:
 
 VITE_EMAILJS_PUBLIC_KEY=your_emailjs_public_key
+
 VITE_EMAILJS_SERVICE_ID=your_emailjs_service_id
+
 VITE_EMAILJS_TEMPLATE_ID=your_emailjs_template_id
+
 VITE_MY_EMAIL=your_email
+
 VITE_MY_WORK_EMAIL=your_work_email
+
 VITE_MY_TELEGRAM=your_telegram_link
+
 VITE_GTM_ID=your_gtm_id
+
 VITE_TAWK_TO_SRC=your_tawk_to_link
+
 
 
 You can obtain EmailJS credentials by signing up for free on the [EmailJS website](https://www.emailjs.com/).
